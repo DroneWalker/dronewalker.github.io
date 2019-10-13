@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Caleb"
-  avatar           : "profile_new.jpg"
+  avatar           : "profile_new.JPG"
   bio              : "PhD Student in Aerospace Engineering at Georgia Institute Technology | AI & Controls"
   location         : "Atlanta, GA"
-  employer         : "Aerospace Systems Design Lab, Georgia Institute of Technology"
+  employer         : "Georgia Institute of Technology"
   googlescholar    : "https://scholar.google.com/citations?user=w9G_EYIAAAAJ&hl=en"
   email            : "harris.caleb84@gmail.com"
   uri              :
