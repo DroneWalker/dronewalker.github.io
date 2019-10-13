@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Caleb Harris"
 description              : &description "PhD Student in Aerospace Engineering at Georgia Institute Technology, Research in the integration of artificial intelligence, control methods, and path planning for autonomous navigation of robots"
 url                      : https://calebh94.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/calebh94/calebh94.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
