@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Caleb"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Student in Aerospace Engineering at Georgia Institute Technology | AI & Controls"
   location         : "Atlanta, GA"
-  employer         :
+  employer         : "Aerospace Systems Design Lab, Georgia Institute of Technology
   googlescholar    : "https://scholar.google.com/citations?user=w9G_EYIAAAAJ&hl=en"
-  email            :
+  email            : "harris.caleb84@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,8 +99,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/calebharris84"
+  orcid            : "https://orcid.org/0000-0003-2589-6547"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
