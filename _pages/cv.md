@@ -23,17 +23,17 @@ Work experience
 
 * Summer 2017: Research Assistant
   * Express Drone Parts LLC.
-  * Duties included: Design and flight testing or UAVs for package delivery and surveillance
+  * Duties included: Design and flight tests of UAVs for package delivery and surveillance
   * Supervisor: Marco Sterk
 
 * Fall 2016 - Spring 2017: Manufacturing Engineering Intern
   * Smith and Nephew
-  * Duties included: Merging pull requests
+  * Duties included: Developed automated scanning system for 3D printed-Titanium knee replacement cups.
   
 Skills
 ======
 * Python, MATLAB, C++, Java, VBA
-* Linux Operating Systems, ROS, PyTorch
+* Linux Operating Systems, ROS, PyTorch, TensorFlow
 
 Publications
 ======
