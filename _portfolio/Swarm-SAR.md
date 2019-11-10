@@ -1,6 +1,6 @@
 ---
 title: "Swarm UAS for Migrant Monitoring and Rescue"
-excerpt: "Grand Challenge Project, Fall 2017 - Summer 2018 <br/><img src='/images/swarm_animation.png'> <br/><img src='/images/swarm_vis.png'>"
+excerpt: "Grand Challenge Project, Fall 2017 - Summer 2018 <br/><img src='/images/swarm_animation.PNG'> <br/><img src='/images/swarm_vis.PNG'>"
 collection: portfolio
 ---
 

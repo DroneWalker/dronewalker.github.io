@@ -1,6 +1,6 @@
 ---
 title: "Maze Navigation using A* and DDP"
-excerpt: "Adaptive Control and Reinforcement Learning Class Project, Spring 2019 <br/><img src='/images/maze_solve_pic.png'>"
+excerpt: "Adaptive Control and Reinforcement Learning Class Project, Spring 2019 <br/><img src='/images/maze_solve_pic.jpg'>"
 collection: portfolio
 ---
 
