@@ -50,6 +50,8 @@ Key Courses
 * Linear Control - Panagiotis Tsiotras
 * Numerical Optimization - Graeme Kennedy
 * Rotorcraft Design 1/2 - Daniel Schrage
+
+For full Resume:  <ul>{"https://calebh94.github.io/files/cv.pdf"}</ul>
   
 
 
