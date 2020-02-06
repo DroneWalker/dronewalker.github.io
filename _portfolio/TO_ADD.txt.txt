@@ -1,0 +1,7 @@
+Turtlebot projects
+
+RotorS Modifications (racing, etc.)
+
+AI class homeworks
+
+Cartpole DDP and optimal trajectory planning
