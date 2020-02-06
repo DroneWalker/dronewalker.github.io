@@ -25,10 +25,6 @@ Work experience
   * Duties included: Design and flight tests of UAVs for package delivery and surveillance
   * Supervisor: Marco Sterk
 
-* Fall 2016 - Spring 2017: Manufacturing Engineering Intern
-  * Smith and Nephew
-  * Duties included: Developed automated scanning system for 3D printed-Titanium knee replacement cups.
-  
 Skills
 ======
 * Python, MATLAB, C++, Java, VBA
@@ -40,18 +36,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Key Courses
-======
-* Adaptive Control and Reinforcement Learning - Byron Boots
-* Advanced Design Methods - Dimitri Mavris
-* Advanced Flight Dynamics - John Paul Clarke
-* Artificial Intelligence for Aerospace Engineering - Panagiotis Tsiotras
-* Introduction to Robotics - Sean Wilson
-* Linear Control - Panagiotis Tsiotras
-* Numerical Optimization - Graeme Kennedy
-* Rotorcraft Design 1/2 - Daniel Schrage
-
-For full Resume:  <ul>{"https://calebh94.github.io/files/cv.pdf"}</ul>
+A PDF of my full CV is available [here](https://calebh94.github.io/files/cv.pdf)
   
 
 
