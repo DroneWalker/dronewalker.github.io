@@ -19,4 +19,4 @@ swarm systems. Further analysis examines the trade-off of mission effectiveness 
 consideration of the resilience and robustness of the system-of-systems.
 
 <br/><img src='/images/SEAMASTER.jpg'>
-<br/><img src='/images/janus.png'>
+<br/><img src='/images/janus.PNG'>
