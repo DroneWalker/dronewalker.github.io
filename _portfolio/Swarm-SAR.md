@@ -1,6 +1,6 @@
 ---
 title: "Swarm UAS for Migrant Monitoring and Rescue"
-excerpt: "Grand Challenge Project, Fall 2017 - Summer 2018 <br/><img src='/images/swarm_animation.PNG'> <br/><img src='/images/swarm_vis.PNG'>"
+excerpt: "Grand Challenge Project, Fall 2017 - Summer 2018"
 collection: portfolio
 ---
 
@@ -17,3 +17,6 @@ analysis of swarm capabilities. A case study is performed for operations by the 
 Guard off the coast of Libya. Results confirm the success of implementing UAS and coordinated
 swarm systems. Further analysis examines the trade-off of mission effectiveness and cost, with
 consideration of the resilience and robustness of the system-of-systems.
+
+<br/><img src='/images/SEAMASTER.jpg'>
+<br/><img src='/images/janus.png'>

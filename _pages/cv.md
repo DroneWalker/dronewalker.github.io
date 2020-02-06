@@ -13,7 +13,6 @@ Education
 ======
 * B.S. in Mechanical Engineering, University of Memphis, 2017
 * M.S. in Aerospace Engineering, Georgia Institute of Technology, 2019
-* Ph.D in Aerospace Engineering, Georgia Institute of Technology, 2021 (expected)
 
 Work experience
 ======
