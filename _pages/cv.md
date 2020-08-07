@@ -11,24 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering, University of Memphis, 2017
-* M.S. in Aerospace Engineering, Georgia Institute of Technology, 2019
+* B.S. in Mechanical Engineering, University of Memphis, May 2017
+* M.S. in Aerospace Engineering, Georgia Institute of Technology, December 2019
+* M.S. in Computational Science and Engineering (Interdisciplinary w/ AE), May 2021 (expected)
+* PhD in Computational Science and Engineering (Interdisciplinary w/ AE), 2022 (expected)
 
 Work experience
 ======
-* Fall 2017 - Present: Graduate Research Associate
-  * Aerospace Systems Design Lab, Georgia Institute of Technology
-  * Supervisor: Dimitri Mavris
+* Georgia Institute of Technology, Aerospace Systems Design Lab, Graduate Research Associate (August 2017 - Present)
+* Collins Aerospace, Mission Systems, Systems Engineering Intern (May 2020 - August 2020)
+* Express Drone Parts LLC, Research Assistant, (April 2017 - August 2018)
 
-* Summer 2017: Research Assistant
-  * Express Drone Parts LLC.
-  * Duties included: Design and flight tests of UAVs for package delivery and surveillance
-  * Supervisor: Marco Sterk
 
-Skills
+Skills and Certifications
 ======
-* Python, MATLAB, C++, Java, VBA
-* Linux Operating Systems, ROS, PyTorch, TensorFlow
+
+* Programming Languages: Python, C++, MATLAB, Java, VBA 
+* Key Packages: PyTorch, TensorFlow, GeoPandas, Numpy, Scikit, OpenCV, ROS, Git 
+* Hardware: NVIDIA Jetson TX2, ZED Stereo Camera, Raspberry Pi, PX4, CrazyFlie, Vicon 
+* Certiﬁcations: FAA Part 107 Remote Pilot Certiﬁcation
+
+Key Courses
+======
+* Aerospace Engineering: Linear Control, Aircraft Flight Dynamics, Optimization, Systems of Systems 
+* Computer Science and Robotics: Principles of Planning and Decision-Making for Autonomy, Adaptive Control and Reinforcement Learning, Robotics Research Introduction/Lab 
+* Computational Science and Engineering: Machine Learning, Modeling & Simulation, Algorithms
+
+Key Projects
+======
+* Methods for Predicting Power Line Locations to Improve Aircraft Safety October 2019 - Present 
+* Deep Learning for UAS Navigation in a Cluttered Environment January 2019 - May 2020 
+* UAS Swarm Selection for Monitoring Migrant Border Crossings August 2017 - May 2018 
 
 Publications
 ======
@@ -37,6 +50,11 @@ Publications
   {% endfor %}</ul>
   
 A PDF of my full CV is available [here](https://calebh94.github.io/files/cv.pdf)
+A more complete description of my work and academic experience can be found on my LinkedIn page [here] (https://www.linkedin.com/in/calebharris84)
+
+
+
+
   
 
 
