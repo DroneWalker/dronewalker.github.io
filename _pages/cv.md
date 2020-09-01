@@ -49,8 +49,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-A PDF of my full CV is available [here](https://calebh94.github.io/files/cv.pdf)
-A more complete description of my work and academic experience can be found on my LinkedIn page [here] (https://www.linkedin.com/in/calebharris84)
+A PDF of my full CV is available [here](https://calebh94.github.io/files/cv.pdf) and a more complete description of my work and academic experience can be found on my LinkedIn page (https://www.linkedin.com/in/calebharris84)
 
 
 
