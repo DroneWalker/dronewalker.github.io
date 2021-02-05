@@ -3,7 +3,7 @@ title: "Use of Machine Learning to Create a Database of Wires for Helicopter Wir
 collection: publications
 permalink: /publication/wirestrike_scitech2021
 excerpt:
-date: 2021-01-14
+date: "January 2021"
 venue:  'AIAA Scitech Forum 2021'
 paperurl: 'https://arc.aiaa.org/doi/10.2514/6.2021-0527'
 citation: 'Caleb M. Harris, Gabriel Achour, Alexia P. Payan, and Dimitri N. Mavris. "Use of Machine Learning to Create a Database of Wires for Helicopter Wire Strike Prevention". AIAA Scitech 2021 Forum. January 2021.'
