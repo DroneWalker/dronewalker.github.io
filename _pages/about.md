@@ -14,4 +14,4 @@ In the past few years, I have gained experience in a wide range of aerospace and
 
 I am passionate about integrating data-driven techniques and vision-based navigation for aerial system operations that improve people's quality of life all over the world. In particular, I am interested in the application of aerial robotics for disaster response, search and rescue, emergency delivery, and transportation. 
 
-Please see my CV [here](https://calebh94.github.io/files/cv.pdf).
+Please see my [CV](https://calebh94.github.io/files/cv.pdf) and [Portfolio](https://calebh94.github.io/portfolio/) for more information on my experiences.
